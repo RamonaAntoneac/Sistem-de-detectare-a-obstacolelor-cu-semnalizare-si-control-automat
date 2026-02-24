@@ -1,0 +1,540 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+CO_ROUTINE_H	D:\1A\proiect v2\Source\include\croutine.h	62;"	d	line:62
+FNOSC_FRC	D:\1A\proiect v2\Demo\dsPIC_MPLAB\main.c	20;"	v	line:20
+FREERTOS_CONFIG_H	D:\1A\proiect v2\Demo\dsPIC_MPLAB\FreeRTOSConfig.h	6;"	d	line:6
+FWDTEN_OFF	D:\1A\proiect v2\Demo\dsPIC_MPLAB\main.c	24;"	v	line:24
+INCLUDE_uxTaskPriorityGet::0	D:\1A\proiect v2\Demo\dsPIC_MPLAB\FreeRTOSConfig.h	40;"	d	line:40
+INCLUDE_vTaskCleanUpResources::0	D:\1A\proiect v2\Demo\dsPIC_MPLAB\FreeRTOSConfig.h	42;"	d	line:42
+INCLUDE_vTaskDelay::1	D:\1A\proiect v2\Demo\dsPIC_MPLAB\FreeRTOSConfig.h	45;"	d	line:45
+INCLUDE_vTaskDelayUntil::1	D:\1A\proiect v2\Demo\dsPIC_MPLAB\FreeRTOSConfig.h	44;"	d	line:44
+INCLUDE_vTaskDelete::0	D:\1A\proiect v2\Demo\dsPIC_MPLAB\FreeRTOSConfig.h	41;"	d	line:41
+INCLUDE_vTaskPrioritySet::1	D:\1A\proiect v2\Demo\dsPIC_MPLAB\FreeRTOSConfig.h	39;"	d	line:39
+INCLUDE_vTaskSuspend::1	D:\1A\proiect v2\Demo\dsPIC_MPLAB\FreeRTOSConfig.h	43;"	d	line:43
+LCD_DATA_AND	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.c	37;"	f	line:37	signature:(int val)
+LCD_DATA_AND	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.h	12;"	p	line:12	signature:(int val)
+LCD_DATA_OR	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.c	33;"	f	line:33	signature:(int val)
+LCD_DATA_OR	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.h	11;"	p	line:11	signature:(int val)
+LCD_E::_RB9	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.c	8;"	d	line:8	file:
+LCD_Goto	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.c	135;"	f	line:135	signature:(int linie, int col)
+LCD_Goto	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.h	18;"	p	line:18	signature:(int linie, int col)
+LCD_LED	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.h	20;"	p	line:20	signature:(int On_Off)
+LCD_On_Off	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.c	155;"	f	line:155	signature:(int On_Off)
+LCD_On_Off	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.h	19;"	p	line:19	signature:(int On_Off)
+LCD_RS::_RB11	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.c	6;"	d	line:6	file:
+LCD_RW::_RB10	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.c	7;"	d	line:7	file:
+LCD_init	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.c	85;"	f	line:85	signature:(void)
+LCD_init	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.h	16;"	p	line:16	signature:(void)
+LCD_line	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.c	66;"	f	line:66	signature:(int linie)
+LCD_line	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.h	15;"	p	line:15	signature:(int linie)
+LCD_printf	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.c	128;"	f	line:128	signature:(char *text)
+LCD_printf	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.h	17;"	p	line:17	signature:(char *text)
+MPU_WRAPPERS_INCLUDED_FROM_API_FILE	D:\1A\proiect v2\Source\portable\MemMang\heap_1.c	67;"	d	line:67	file:
+MPU_WRAPPERS_INCLUDED_FROM_API_FILE	D:\1A\proiect v2\Source\portable\MemMang\heap_1.c	72;"	d	line:72	file:
+MPU_WRAPPERS_INCLUDED_FROM_API_FILE	D:\1A\proiect v2\Source\queue.c	60;"	d	line:60	file:
+MPU_WRAPPERS_INCLUDED_FROM_API_FILE	D:\1A\proiect v2\Source\queue.c	66;"	d	line:66	file:
+MPU_WRAPPERS_INCLUDED_FROM_API_FILE	D:\1A\proiect v2\Source\tasks.c	62;"	d	line:62	file:
+MPU_WRAPPERS_INCLUDED_FROM_API_FILE	D:\1A\proiect v2\Source\tasks.c	68;"	d	line:68	file:
+OSCIOFNC_OFF	D:\1A\proiect v2\Demo\dsPIC_MPLAB\main.c	22;"	v	line:22
+Off::0	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.h	6;"	d	line:6
+On::1	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.h	5;"	d	line:5
+QUEUE_H	D:\1A\proiect v2\Source\include\queue.h	62;"	d	line:62
+QUEUE_REGISTRY_ITEM	D:\1A\proiect v2\Source\queue.c	168;"	s	line:168	file:
+QueueDefinition	D:\1A\proiect v2\Source\queue.c	98;"	s	line:98	file:
+SEMAPHORE_H	D:\1A\proiect v2\Source\include\semphr.h	59;"	d	line:59
+TASK_H	D:\1A\proiect v2\Source\include\task.h	62;"	d	line:62
+Task1	D:\1A\proiect v2\Demo\dsPIC_MPLAB\main.c	50;"	f	line:50	signature:(void *params)
+Toggle::2	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.h	7;"	d	line:7
+_T1Interrupt	D:\1A\proiect v2\Source\portable\MPLAB\PIC24_dsPIC\port.c	257;"	f	line:257	signature:( void )
+_vPortYield	D:\1A\proiect v2\Source\portable\MPLAB\PIC24_dsPIC\portasm_dsPIC.S	58;"	l	line:58
+ax	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.c	137;"	l	line:137
+ax	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.c	157;"	l	line:157
+ax	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.c	68;"	l	line:68
+cStatus	D:\1A\proiect v2\Source\tasks.c	2051;"	l	line:2051
+clear	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.c	40;"	f	line:40	signature:(void)
+clear	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.h	13;"	p	line:13	signature:(void)
+configCPU_CLOCK_HZ::((unsignedlong)40000000)	D:\1A\proiect v2\Demo\dsPIC_MPLAB\FreeRTOSConfig.h	22;"	d	line:22
+configIDLE_SHOULD_YIELD::1	D:\1A\proiect v2\Demo\dsPIC_MPLAB\FreeRTOSConfig.h	30;"	d	line:30
+configKERNEL_INTERRUPT_PRIORITY::0x01	D:\1A\proiect v2\Demo\dsPIC_MPLAB\FreeRTOSConfig.h	48;"	d	line:48
+configKERNEL_INTERRUPT_PRIORITY::1	D:\1A\proiect v2\Source\portable\MPLAB\PIC24_dsPIC\port.c	27;"	d	line:27	file:
+configMAX_CO_ROUTINE_PRIORITIES::(2)	D:\1A\proiect v2\Demo\dsPIC_MPLAB\FreeRTOSConfig.h	34;"	d	line:34
+configMAX_PRIORITIES::((unsignedportBASE_TYPE)4)	D:\1A\proiect v2\Demo\dsPIC_MPLAB\FreeRTOSConfig.h	24;"	d	line:24
+configMAX_TASK_NAME_LEN::(4)	D:\1A\proiect v2\Demo\dsPIC_MPLAB\FreeRTOSConfig.h	27;"	d	line:27
+configMINIMAL_STACK_SIZE::(105)	D:\1A\proiect v2\Demo\dsPIC_MPLAB\FreeRTOSConfig.h	25;"	d	line:25
+configTICK_RATE_HZ::((portTickType)1000)	D:\1A\proiect v2\Demo\dsPIC_MPLAB\FreeRTOSConfig.h	21;"	d	line:21
+configTOTAL_HEAP_SIZE::((size_t)5120)	D:\1A\proiect v2\Demo\dsPIC_MPLAB\FreeRTOSConfig.h	26;"	d	line:26
+configUSE_16_BIT_TICKS::1	D:\1A\proiect v2\Demo\dsPIC_MPLAB\FreeRTOSConfig.h	29;"	d	line:29
+configUSE_CO_ROUTINES::1	D:\1A\proiect v2\Demo\dsPIC_MPLAB\FreeRTOSConfig.h	33;"	d	line:33
+configUSE_IDLE_HOOK::0	D:\1A\proiect v2\Demo\dsPIC_MPLAB\FreeRTOSConfig.h	19;"	d	line:19
+configUSE_PREEMPTION::1	D:\1A\proiect v2\Demo\dsPIC_MPLAB\FreeRTOSConfig.h	18;"	d	line:18
+configUSE_TICK_HOOK::0	D:\1A\proiect v2\Demo\dsPIC_MPLAB\FreeRTOSConfig.h	20;"	d	line:20
+configUSE_TRACE_FACILITY::0	D:\1A\proiect v2\Demo\dsPIC_MPLAB\FreeRTOSConfig.h	28;"	d	line:28
+corCRCB	D:\1A\proiect v2\Source\include\croutine.h	86;"	t	line:86
+corCoRoutineControlBlock	D:\1A\proiect v2\Source\include\croutine.h	78;"	s	line:78
+corINITIAL_STATE::(0)	D:\1A\proiect v2\Source\croutine.c	81;"	d	line:81	file:
+crCOROUTINE_CODE	D:\1A\proiect v2\Source\include\croutine.h	76;"	t	line:76
+crDELAY::(xHandle,xTicksToDelay)	D:\1A\proiect v2\Source\include\croutine.h	324;"	d	line:324
+crEND::}	D:\1A\proiect v2\Source\include\croutine.h	264;"	d	line:264
+crQUEUE_RECEIVE::(xHandle,pxQueue,pvBuffer,xTic	D:\1A\proiect v2\Source\include\croutine.h	514;"	d	line:514
+crQUEUE_RECEIVE_FROM_ISR::(pxQueue,pvBuffer,pxCoRoutineW	D:\1A\proiect v2\Source\include\croutine.h	723;"	d	line:723
+crQUEUE_SEND::(xHandle,pxQueue,pvItemToQueue	D:\1A\proiect v2\Source\include\croutine.h	422;"	d	line:422
+crQUEUE_SEND_FROM_ISR::(pxQueue,pvItemToQueue,xCoRout	D:\1A\proiect v2\Source\include\croutine.h	610;"	d	line:610
+crSET_STATE0::(xHandle)((corCRCB*)xHandle)->	D:\1A\proiect v2\Source\include\croutine.h	270;"	d	line:270
+crSET_STATE1::(xHandle)((corCRCB*)xHandle)->	D:\1A\proiect v2\Source\include\croutine.h	271;"	d	line:271
+crSTART::(pxCRCB)switch(((corCRCB*)pxCR	D:\1A\proiect v2\Source\include\croutine.h	233;"	d	line:233
+dDummy	D:\1A\proiect v2\Source\portable\MemMang\heap_1.c	79;"	m	line:79	union:xRTOS_HEAP	file:
+delayms	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.c	26;"	f	line:26	signature:(int ms)
+delayms	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.h	10;"	p	line:10	signature:(int ms)
+delayus	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.c	11;"	f	line:11	signature:(int us)
+delayus	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.h	9;"	p	line:9	signature:(int us)
+i	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.c	12;"	l	line:12
+i	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.c	130;"	l	line:130
+i	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.c	28;"	l	line:28
+i	D:\1A\proiect v2\Source\portable\MPLAB\PIC24_dsPIC\port.c	108;"	l	line:108
+initPLL	D:\1A\proiect v2\Demo\dsPIC_MPLAB\main.c	26;"	f	line:26	signature:(void)
+initPLL	D:\1A\proiect v2\Demo\dsPIC_MPLAB\main.c	84;"	f	line:84	signature:(void)
+main	D:\1A\proiect v2\Demo\dsPIC_MPLAB\main.c	70;"	f	line:70	signature:( void )
+pcEndOfStack	D:\1A\proiect v2\Source\tasks.c	2135;"	l	line:2135
+pcHead	D:\1A\proiect v2\Source\queue.c	100;"	m	line:100	struct:QueueDefinition	file:
+pcName	D:\1A\proiect v2\Source\include\task.h	114;"	m	line:114	struct:xTASK_PARAMTERS
+pcOriginalReadPosition	D:\1A\proiect v2\Source\queue.c	647;"	l	line:647
+pcOriginalReadPosition	D:\1A\proiect v2\Source\queue.c	824;"	l	line:824
+pcQueueName	D:\1A\proiect v2\Source\queue.c	170;"	m	line:170	struct:QUEUE_REGISTRY_ITEM	file:
+pcReadFrom	D:\1A\proiect v2\Source\queue.c	104;"	m	line:104	struct:QueueDefinition	file:
+pcStatsString	D:\1A\proiect v2\Source\tasks.c	167;"	v	line:167	file:
+pcStatusString	D:\1A\proiect v2\Source\tasks.c	200;"	v	line:200	file:
+pcTail	D:\1A\proiect v2\Source\queue.c	101;"	m	line:101	struct:QueueDefinition	file:
+pcTaskName	D:\1A\proiect v2\Source\tasks.c	91;"	m	line:91	struct:tskTaskControlBlock	file:
+pcTraceBuffer	D:\1A\proiect v2\Source\tasks.c	195;"	v	line:195	file:
+pcTraceBufferEnd	D:\1A\proiect v2\Source\tasks.c	197;"	v	line:197	file:
+pcTraceBufferStart	D:\1A\proiect v2\Source\tasks.c	196;"	v	line:196	file:
+pcWriteTo	D:\1A\proiect v2\Source\queue.c	103;"	m	line:103	struct:QueueDefinition	file:
+portBIT_SET::1	D:\1A\proiect v2\Source\portable\MPLAB\PIC24_dsPIC\port.c	20;"	d	line:20	file:
+portINITIAL_SR::0	D:\1A\proiect v2\Source\portable\MPLAB\PIC24_dsPIC\port.c	22;"	d	line:22	file:
+portRESTORE_CONTEXT::	D:\1A\proiect v2\Source\portable\MPLAB\PIC24_dsPIC\port.c	59;"	d	line:59	file:
+portRESTORE_CONTEXT::	D:\1A\proiect v2\Source\portable\MPLAB\PIC24_dsPIC\port.c	93;"	d	line:93	file:
+portTASK_FUNCTION	D:\1A\proiect v2\Source\tasks.c	1779;"	f	line:1779	file:
+portTASK_FUNCTION_PROTO	D:\1A\proiect v2\Source\tasks.c	323;"	p	line:323	file:
+portTIMER_PRESCALE::8	D:\1A\proiect v2\Source\portable\MPLAB\PIC24_dsPIC\port.c	21;"	d	line:21	file:
+portUNUSED_PR_BITS::0x7f	D:\1A\proiect v2\Source\portable\MPLAB\PIC24_dsPIC\port.c	31;"	d	line:31	file:
+prvAddCoRoutineToReadyQueue::(pxCRCB)	D:\1A\proiect v2\Source\croutine.c	97;"	d	line:97	file:
+prvAddTaskToReadyQueue::(pxTCB)	D:\1A\proiect v2\Source\tasks.c	257;"	d	line:257	file:
+prvAllocateTCBAndStack	D:\1A\proiect v2\Source\tasks.c	1997;"	f	line:1997	file:	signature:( unsigned short usStackDepth, portSTACK_TYPE *puxStackBuffer )
+prvCheckDelayedList	D:\1A\proiect v2\Source\croutine.c	121;"	p	line:121	file:	signature:( void )
+prvCheckDelayedList	D:\1A\proiect v2\Source\croutine.c	243;"	f	line:243	file:	signature:( void )
+prvCheckDelayedTasks::	D:\1A\proiect v2\Source\tasks.c	286;"	d	line:286	file:
+prvCheckPendingReadyList	D:\1A\proiect v2\Source\croutine.c	111;"	p	line:111	file:	signature:( void )
+prvCheckPendingReadyList	D:\1A\proiect v2\Source\croutine.c	220;"	f	line:220	file:	signature:( void )
+prvCheckTasksWaitingTermination	D:\1A\proiect v2\Source\tasks.c	1962;"	f	line:1962	file:	signature:( void )
+prvCopyDataFromQueue	D:\1A\proiect v2\Source\queue.c	1087;"	f	line:1087	file:	signature:( xQUEUE * const pxQueue, const void *pvBuffer )
+prvCopyDataToQueue	D:\1A\proiect v2\Source\queue.c	1049;"	f	line:1049	file:	signature:( xQUEUE *pxQueue, const void *pvItemToQueue, portBASE_TYPE xPosition )
+prvDeleteTCB	D:\1A\proiect v2\Source\tasks.c	2160;"	f	line:2160	file:	signature:( tskTCB *pxTCB )
+prvGenerateRunTimeStatsForTasksInList	D:\1A\proiect v2\Source\tasks.c	2062;"	f	line:2062	file:	signature:( const signed char *pcWriteBuffer, xList *pxList, unsigned long ulTotalRunTime )
+prvGetTCBFromHandle::(pxHandle)((pxHandle==NULL)?(t	D:\1A\proiect v2\Source\tasks.c	295;"	d	line:295	file:
+prvInitialiseCoRoutineLists	D:\1A\proiect v2\Source\croutine.c	103;"	p	line:103	file:	signature:( void )
+prvInitialiseCoRoutineLists	D:\1A\proiect v2\Source\croutine.c	329;"	f	line:329	file:	signature:( void )
+prvInitialiseTCBVariables	D:\1A\proiect v2\Source\tasks.c	1844;"	f	line:1844	file:	signature:( tskTCB *pxTCB, const signed char * const pcName, unsigned portBASE_TYPE uxPriority, const xMemoryRegion * const xRegions, unsigned short usStackDepth )
+prvInitialiseTaskLists	D:\1A\proiect v2\Source\tasks.c	1930;"	f	line:1930	file:	signature:( void )
+prvIsQueueEmpty	D:\1A\proiect v2\Source\queue.c	1165;"	f	line:1165	file:	signature:( const xQueueHandle pxQueue )
+prvIsQueueFull	D:\1A\proiect v2\Source\queue.c	1187;"	f	line:1187	file:	signature:( const xQueueHandle pxQueue )
+prvListTaskWithinSingleList	D:\1A\proiect v2\Source\tasks.c	2031;"	f	line:2031	file:	signature:( const signed char *pcWriteBuffer, xList *pxList, signed char cStatus )
+prvLockQueue::(pxQueue)	D:\1A\proiect v2\Source\queue.c	239;"	d	line:239	file:
+prvSetupHardware	D:\1A\proiect v2\Demo\dsPIC_MPLAB\main.c	105;"	f	line:105	file:	signature:( void )
+prvSetupHardware	D:\1A\proiect v2\Demo\dsPIC_MPLAB\main.c	48;"	p	line:48	file:	signature:( void )
+prvSetupTimerInterrupt	D:\1A\proiect v2\Source\portable\MPLAB\PIC24_dsPIC\port.c	100;"	p	line:100	file:	signature:( void )
+prvSetupTimerInterrupt	D:\1A\proiect v2\Source\portable\MPLAB\PIC24_dsPIC\port.c	212;"	f	line:212	file:	signature:( void )
+prvUnlockQueue	D:\1A\proiect v2\Source\queue.c	1101;"	f	line:1101	file:	signature:( xQueueHandle pxQueue )
+ptALL_OFF::0	D:\1A\proiect v2\Demo\dsPIC_MPLAB\main.c	17;"	d	line:17	file:
+ptALL_OFF::0xFFFF	D:\1A\proiect v2\Demo\dsPIC_MPLAB\ParTest\ParTest.c	13;"	d	line:13	file:
+ptOUTPUT::0	D:\1A\proiect v2\Demo\dsPIC_MPLAB\ParTest\ParTest.c	11;"	d	line:11	file:
+ptOUTPUT::0	D:\1A\proiect v2\Demo\dsPIC_MPLAB\main.c	16;"	d	line:16	file:
+puxStackBuffer	D:\1A\proiect v2\Source\include\task.h	118;"	m	line:118	struct:xTASK_PARAMTERS
+pvBaseAddress	D:\1A\proiect v2\Source\include\task.h	103;"	m	line:103	struct:xMEMORY_REGION
+pvParameters	D:\1A\proiect v2\Source\include\task.h	116;"	m	line:116	struct:xTASK_PARAMTERS
+pvPortMalloc	D:\1A\proiect v2\Source\portable\MemMang\heap_1.c	89;"	f	line:89	signature:( size_t xWantedSize )
+pvReturn	D:\1A\proiect v2\Source\portable\MemMang\heap_1.c	91;"	l	line:91
+pvTaskCode	D:\1A\proiect v2\Source\include\task.h	113;"	m	line:113	struct:xTASK_PARAMTERS
+pxCRCB	D:\1A\proiect v2\Source\croutine.c	245;"	l	line:245
+pxCoRoutine	D:\1A\proiect v2\Source\croutine.c	128;"	l	line:128
+pxCoRoutineFunction	D:\1A\proiect v2\Source\include\croutine.h	80;"	m	line:80	struct:corCoRoutineControlBlock
+pxCurrentCoRoutine	D:\1A\proiect v2\Source\croutine.c	76;"	v	line:76
+pxCurrentTCB	D:\1A\proiect v2\Source\tasks.c	129;"	v	line:129
+pxDelayedCoRoutineList	D:\1A\proiect v2\Source\croutine.c	71;"	v	line:71	file:
+pxDelayedTaskList	D:\1A\proiect v2\Source\tasks.c	136;"	v	line:136	file:
+pxEndOfStack	D:\1A\proiect v2\Source\tasks.c	94;"	m	line:94	struct:tskTaskControlBlock	file:
+pxFirstTCB	D:\1A\proiect v2\Source\tasks.c	2033;"	l	line:2033
+pxFirstTCB	D:\1A\proiect v2\Source\tasks.c	2064;"	l	line:2064
+pxHandle	D:\1A\proiect v2\Source\queue.c	430;"	l	line:430
+pxIndex	D:\1A\proiect v2\Source\list.c	92;"	l	line:92
+pxIterator	D:\1A\proiect v2\Source\list.c	115;"	l	line:115
+pxList	D:\1A\proiect v2\Source\list.c	172;"	l	line:172
+pxMutexHolder::pcTail	D:\1A\proiect v2\Source\queue.c	83;"	d	line:83	file:
+pxNewQueue	D:\1A\proiect v2\Source\queue.c	249;"	l	line:249
+pxNewQueue	D:\1A\proiect v2\Source\queue.c	301;"	l	line:301
+pxNewTCB	D:\1A\proiect v2\Source\tasks.c	1999;"	l	line:1999
+pxNewTCB	D:\1A\proiect v2\Source\tasks.c	389;"	l	line:389
+pxNextTCB	D:\1A\proiect v2\Source\tasks.c	2033;"	l	line:2033
+pxNextTCB	D:\1A\proiect v2\Source\tasks.c	2064;"	l	line:2064
+pxOverflowDelayedCoRoutineList	D:\1A\proiect v2\Source\croutine.c	72;"	v	line:72	file:
+pxOverflowDelayedTaskList	D:\1A\proiect v2\Source\tasks.c	137;"	v	line:137	file:
+pxPortInitialiseStack	D:\1A\proiect v2\Source\portable\MPLAB\PIC24_dsPIC\port.c	105;"	f	line:105	signature:( portSTACK_TYPE *pxTopOfStack, pdTASK_CODE pxCode, void *pvParameters )
+pxReadyCoRoutineLists	D:\1A\proiect v2\Source\croutine.c	68;"	v	line:68	file:
+pxReadyTasksLists	D:\1A\proiect v2\Source\tasks.c	133;"	v	line:133	file:
+pxStack	D:\1A\proiect v2\Source\tasks.c	90;"	m	line:90	struct:tskTaskControlBlock	file:
+pxTCB	D:\1A\proiect v2\Source\tasks.c	1083;"	l	line:1083
+pxTCB	D:\1A\proiect v2\Source\tasks.c	1417;"	l	line:1417
+pxTCB	D:\1A\proiect v2\Source\tasks.c	1915;"	l	line:1915
+pxTCB	D:\1A\proiect v2\Source\tasks.c	1978;"	l	line:1978
+pxTCB	D:\1A\proiect v2\Source\tasks.c	2134;"	l	line:2134
+pxTCB	D:\1A\proiect v2\Source\tasks.c	2223;"	l	line:2223
+pxTCB	D:\1A\proiect v2\Source\tasks.c	2255;"	l	line:2255
+pxTCB	D:\1A\proiect v2\Source\tasks.c	536;"	l	line:536
+pxTCB	D:\1A\proiect v2\Source\tasks.c	740;"	l	line:740
+pxTCB	D:\1A\proiect v2\Source\tasks.c	762;"	l	line:762
+pxTCB	D:\1A\proiect v2\Source\tasks.c	867;"	l	line:867
+pxTCB	D:\1A\proiect v2\Source\tasks.c	911;"	l	line:911
+pxTCB	D:\1A\proiect v2\Source\tasks.c	941;"	l	line:941
+pxTCB	D:\1A\proiect v2\Source\tasks.c	984;"	l	line:984
+pxTaskTag	D:\1A\proiect v2\Source\tasks.c	110;"	m	line:110	struct:tskTaskControlBlock	file:
+pxTemp	D:\1A\proiect v2\Source\croutine.c	256;"	l	line:256
+pxTemp	D:\1A\proiect v2\Source\tasks.c	1366;"	l	line:1366
+pxTopOfStack	D:\1A\proiect v2\Source\tasks.c	397;"	l	line:397
+pxTopOfStack	D:\1A\proiect v2\Source\tasks.c	81;"	m	line:81	struct:tskTaskControlBlock	file:
+pxUnblockedCRCB	D:\1A\proiect v2\Source\croutine.c	227;"	l	line:227
+pxUnblockedCRCB	D:\1A\proiect v2\Source\croutine.c	351;"	l	line:351
+pxUnblockedTCB	D:\1A\proiect v2\Source\tasks.c	1668;"	l	line:1668
+queueDONT_BLOCK::((portTickType)0)	D:\1A\proiect v2\Source\queue.c	91;"	d	line:91	file:
+queueERRONEOUS_UNBLOCK::(-1)	D:\1A\proiect v2\Source\queue.c	76;"	d	line:76	file:
+queueLOCKED_UNMODIFIED::((signedportBASE_TYPE)0)	D:\1A\proiect v2\Source\queue.c	74;"	d	line:74	file:
+queueMUTEX_GIVE_BLOCK_TIME::((portTickType)0)	D:\1A\proiect v2\Source\queue.c	92;"	d	line:92	file:
+queueQUEUE_IS_MUTEX::NULL	D:\1A\proiect v2\Source\queue.c	86;"	d	line:86	file:
+queueSEMAPHORE_QUEUE_ITEM_LENGTH::(0)	D:\1A\proiect v2\Source\queue.c	90;"	d	line:90	file:
+queueSEND_TO_BACK::(0)	D:\1A\proiect v2\Source\include\queue.h	76;"	d	line:76
+queueSEND_TO_BACK::(0)	D:\1A\proiect v2\Source\queue.c	79;"	d	line:79	file:
+queueSEND_TO_FRONT::(1)	D:\1A\proiect v2\Source\include\queue.h	77;"	d	line:77
+queueSEND_TO_FRONT::(1)	D:\1A\proiect v2\Source\queue.c	80;"	d	line:80	file:
+queueUNLOCKED::((signedportBASE_TYPE)-1)	D:\1A\proiect v2\Source\queue.c	73;"	d	line:73	file:
+semBINARY_SEMAPHORE_QUEUE_LENGTH::((unsignedchar)1)	D:\1A\proiect v2\Source\include\semphr.h	65;"	d	line:65
+semGIVE_BLOCK_TIME::((portTickType)0)	D:\1A\proiect v2\Source\include\semphr.h	67;"	d	line:67
+semSEMAPHORE_QUEUE_ITEM_LENGTH::((unsignedchar)0)	D:\1A\proiect v2\Source\include\semphr.h	66;"	d	line:66
+send_char2LCD	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.c	53;"	f	line:53	signature:(char ax)
+send_char2LCD	D:\1A\proiect v2\Demo\dsPIC_MPLAB\new_lcd.h	14;"	p	line:14	signature:(char ax)
+static	D:\1A\proiect v2\Source\croutine.c	63;"	d	line:63	file:
+static	D:\1A\proiect v2\Source\tasks.c	125;"	d	line:125	file:
+taskDISABLE_INTERRUPTS::portDISABLE_INTERRUPTS	D:\1A\proiect v2\Source\include\task.h	175;"	d	line:175
+taskENABLE_INTERRUPTS::portENABLE_INTERRUPTS	D:\1A\proiect v2\Source\include\task.h	185;"	d	line:185
+taskENTER_CRITICAL::portENTER_CRITICAL	D:\1A\proiect v2\Source\include\task.h	151;"	d	line:151
+taskEXIT_CRITICAL::portEXIT_CRITICAL	D:\1A\proiect v2\Source\include\task.h	165;"	d	line:165
+taskSCHEDULER_NOT_STARTED::0	D:\1A\proiect v2\Source\include\task.h	188;"	d	line:188
+taskSCHEDULER_RUNNING::1	D:\1A\proiect v2\Source\include\task.h	189;"	d	line:189
+taskSCHEDULER_SUSPENDED::2	D:\1A\proiect v2\Source\include\task.h	190;"	d	line:190
+taskYIELD::portYIELD	D:\1A\proiect v2\Source\include\task.h	137;"	d	line:137
+tskBLOCKED_CHAR::((signedchar)'B')	D:\1A\proiect v2\Source\tasks.c	184;"	d	line:184	file:
+tskDELETED_CHAR::((signedchar)'D')	D:\1A\proiect v2\Source\tasks.c	186;"	d	line:186	file:
+tskIDLE_PRIORITY::((unsignedportBASE_TYPE)0)	D:\1A\proiect v2\Source\include\task.h	127;"	d	line:127
+tskIDLE_STACK_SIZE::configMINIMAL_STACK_SIZE	D:\1A\proiect v2\Source\tasks.c	73;"	d	line:73	file:
+tskKERNEL_VERSION_NUMBER::"V6.0.4"	D:\1A\proiect v2\Source\include\task.h	75;"	d	line:75
+tskREADY_CHAR::((signedchar)'R')	D:\1A\proiect v2\Source\tasks.c	185;"	d	line:185	file:
+tskSIZE_OF_EACH_TRACE_LINE::((unsignedlong)(sizeof(unsigne	D:\1A\proiect v2\Source\tasks.c	194;"	d	line:194	file:
+tskSTACK_FILL_BYTE::(0xa5)	D:\1A\proiect v2\Source\tasks.c	179;"	d	line:179	file:
+tskSUSPENDED_CHAR::((signedchar)'S')	D:\1A\proiect v2\Source\tasks.c	187;"	d	line:187	file:
+tskTCB	D:\1A\proiect v2\Source\tasks.c	117;"	t	line:117	file:
+tskTaskControlBlock	D:\1A\proiect v2\Source\tasks.c	79;"	s	line:79	file:
+ucHeap	D:\1A\proiect v2\Source\portable\MemMang\heap_1.c	83;"	m	line:83	union:xRTOS_HEAP	file:
+ulBufferLength	D:\1A\proiect v2\Source\tasks.c	1335;"	l	line:1335
+ulCompareMatch	D:\1A\proiect v2\Source\portable\MPLAB\PIC24_dsPIC\port.c	214;"	l	line:214
+ulLengthInBytes	D:\1A\proiect v2\Source\include\task.h	104;"	m	line:104	struct:xMEMORY_REGION
+ulParameters	D:\1A\proiect v2\Source\include\task.h	105;"	m	line:105	struct:xMEMORY_REGION
+ulRunTimeCounter	D:\1A\proiect v2\Source\tasks.c	114;"	m	line:114	struct:tskTaskControlBlock	file:
+ulStatsAsPercentage	D:\1A\proiect v2\Source\tasks.c	2065;"	l	line:2065
+ulTaskEndTrace	D:\1A\proiect v2\Source\tasks.c	1333;"	f	line:1333	signature:( void )
+ulTaskSwitchedInTime	D:\1A\proiect v2\Source\tasks.c	168;"	v	line:168	file:
+ulTempCounter	D:\1A\proiect v2\Source\tasks.c	1566;"	l	line:1566
+ulTotalRunTime	D:\1A\proiect v2\Source\tasks.c	1254;"	l	line:1254
+usCode	D:\1A\proiect v2\Source\portable\MPLAB\PIC24_dsPIC\port.c	107;"	l	line:107
+usCount	D:\1A\proiect v2\Source\tasks.c	2114;"	l	line:2114
+usQueue	D:\1A\proiect v2\Source\tasks.c	1416;"	l	line:1416
+usStackDepth	D:\1A\proiect v2\Source\include\task.h	115;"	m	line:115	struct:xTASK_PARAMTERS
+usStackRemaining	D:\1A\proiect v2\Source\tasks.c	2034;"	l	line:2034
+usStackRemaining	D:\1A\proiect v2\Source\tasks.c	2051;"	l	line:2051
+usTaskCheckFreeStackSpace	D:\1A\proiect v2\Source\tasks.c	2112;"	f	line:2112	file:	signature:( const unsigned char * pucStackByte )
+ux	D:\1A\proiect v2\Source\queue.c	1425;"	l	line:1425
+ux	D:\1A\proiect v2\Source\queue.c	1448;"	l	line:1448
+uxBasePriority	D:\1A\proiect v2\Source\tasks.c	106;"	m	line:106	struct:tskTaskControlBlock	file:
+uxCriticalNesting	D:\1A\proiect v2\Source\portable\MPLAB\PIC24_dsPIC\port.c	34;"	v	line:34
+uxCriticalNesting	D:\1A\proiect v2\Source\tasks.c	98;"	m	line:98	struct:tskTaskControlBlock	file:
+uxCurrentNumberOfTasks	D:\1A\proiect v2\Source\tasks.c	154;"	v	line:154	file:
+uxCurrentPriority	D:\1A\proiect v2\Source\tasks.c	763;"	l	line:763
+uxIndex	D:\1A\proiect v2\Source\include\croutine.h	84;"	m	line:84	struct:corCoRoutineControlBlock
+uxItemSize	D:\1A\proiect v2\Source\queue.c	111;"	m	line:111	struct:QueueDefinition	file:
+uxLEDBit	D:\1A\proiect v2\Demo\dsPIC_MPLAB\ParTest\ParTest.c	36;"	l	line:36
+uxLEDBit	D:\1A\proiect v2\Demo\dsPIC_MPLAB\ParTest\ParTest.c	66;"	l	line:66
+uxLength	D:\1A\proiect v2\Source\queue.c	110;"	m	line:110	struct:QueueDefinition	file:
+uxMessagesWaiting	D:\1A\proiect v2\Source\queue.c	109;"	m	line:109	struct:QueueDefinition	file:
+uxMissedTicks	D:\1A\proiect v2\Source\tasks.c	160;"	v	line:160	file:
+uxOutput	D:\1A\proiect v2\Demo\dsPIC_MPLAB\ParTest\ParTest.c	15;"	v	line:15
+uxPreviousTask	D:\1A\proiect v2\Source\tasks.c	199;"	v	line:199	file:
+uxPriority	D:\1A\proiect v2\Source\croutine.c	331;"	l	line:331
+uxPriority	D:\1A\proiect v2\Source\include\croutine.h	83;"	m	line:83	struct:corCoRoutineControlBlock
+uxPriority	D:\1A\proiect v2\Source\include\task.h	117;"	m	line:117	struct:xTASK_PARAMTERS
+uxPriority	D:\1A\proiect v2\Source\tasks.c	1932;"	l	line:1932
+uxPriority	D:\1A\proiect v2\Source\tasks.c	89;"	m	line:89	struct:tskTaskControlBlock	file:
+uxQueue	D:\1A\proiect v2\Source\tasks.c	1190;"	l	line:1190
+uxQueue	D:\1A\proiect v2\Source\tasks.c	1253;"	l	line:1253
+uxQueueMessagesWaiting	D:\1A\proiect v2\Source\include\queue.h	773;"	p	line:773	signature:( const xQueueHandle xQueue )
+uxQueueMessagesWaiting	D:\1A\proiect v2\Source\queue.c	1018;"	f	line:1018	signature:( const xQueueHandle pxQueue )
+uxQueueMessagesWaitingFromISR	D:\1A\proiect v2\Source\include\queue.h	1177;"	p	line:1177	signature:( const xQueueHandle pxQueue )
+uxQueueMessagesWaitingFromISR	D:\1A\proiect v2\Source\queue.c	1030;"	f	line:1030	signature:( const xQueueHandle pxQueue )
+uxQueueType::pcHead	D:\1A\proiect v2\Source\queue.c	84;"	d	line:84	file:
+uxRecursiveCallCount::pcReadFrom	D:\1A\proiect v2\Source\queue.c	85;"	d	line:85	file:
+uxReturn	D:\1A\proiect v2\Source\queue.c	1020;"	l	line:1020
+uxReturn	D:\1A\proiect v2\Source\queue.c	1032;"	l	line:1032
+uxReturn	D:\1A\proiect v2\Source\tasks.c	2136;"	l	line:2136
+uxReturn	D:\1A\proiect v2\Source\tasks.c	741;"	l	line:741
+uxSavedInterruptStatus	D:\1A\proiect v2\Source\queue.c	770;"	l	line:770
+uxSavedInterruptStatus	D:\1A\proiect v2\Source\queue.c	970;"	l	line:970
+uxSchedulerSuspended	D:\1A\proiect v2\Source\tasks.c	159;"	v	line:159	file:
+uxState	D:\1A\proiect v2\Source\include\croutine.h	85;"	m	line:85	struct:corCoRoutineControlBlock
+uxTCBNumber	D:\1A\proiect v2\Source\tasks.c	102;"	m	line:102	struct:tskTaskControlBlock	file:
+uxTaskGetNumberOfTasks	D:\1A\proiect v2\Source\tasks.c	1178;"	f	line:1178	signature:( void )
+uxTaskGetStackHighWaterMark	D:\1A\proiect v2\Source\tasks.c	2132;"	f	line:2132	signature:( xTaskHandle xTask )
+uxTaskNumber	D:\1A\proiect v2\Source\tasks.c	163;"	v	line:163	file:
+uxTaskPriorityGet	D:\1A\proiect v2\Source\tasks.c	738;"	f	line:738	signature:( xTaskHandle pxTask )
+uxTasksDeleted	D:\1A\proiect v2\Source\tasks.c	143;"	v	line:143	file:
+uxTopCoRoutineReadyPriority	D:\1A\proiect v2\Source\croutine.c	77;"	v	line:77	file:
+uxTopReadyPriority	D:\1A\proiect v2\Source\tasks.c	157;"	v	line:157	file:
+uxTopUsedPriority	D:\1A\proiect v2\Source\tasks.c	156;"	v	line:156	file:
+vApplicationIdleHook	D:\1A\proiect v2\Source\tasks.c	1819;"	p	line:1819	file:	signature:( void )
+vApplicationMallocFailedHook	D:\1A\proiect v2\Source\portable\MemMang\heap_1.c	120;"	p	line:120	file:	signature:( void )
+vApplicationTickHook	D:\1A\proiect v2\Source\tasks.c	1388;"	p	line:1388	file:	signature:( void )
+vApplicationTickHook	D:\1A\proiect v2\Source\tasks.c	1397;"	p	line:1397	file:	signature:( void )
+vCoRoutineAddToDelayedList	D:\1A\proiect v2\Source\croutine.c	182;"	f	line:182	signature:( portTickType xTicksToDelay, xList *pxEventList )
+vCoRoutineAddToDelayedList	D:\1A\proiect v2\Source\include\croutine.h	734;"	p	line:734	signature:( portTickType xTicksToDelay, xList *pxEventList )
+vCoRoutineSchedule	D:\1A\proiect v2\Source\croutine.c	299;"	f	line:299	signature:( void )
+vCoRoutineSchedule	D:\1A\proiect v2\Source\include\croutine.h	202;"	p	line:202	signature:( void )
+vListInitialise	D:\1A\proiect v2\Source\list.c	63;"	f	line:63	signature:( xList *pxList )
+vListInitialiseItem	D:\1A\proiect v2\Source\list.c	83;"	f	line:83	signature:( xListItem *pxItem )
+vListInsert	D:\1A\proiect v2\Source\list.c	113;"	f	line:113	signature:( xList *pxList, xListItem *pxNewListItem )
+vListInsertEnd	D:\1A\proiect v2\Source\list.c	90;"	f	line:90	signature:( xList *pxList, xListItem *pxNewListItem )
+vListRemove	D:\1A\proiect v2\Source\list.c	170;"	f	line:170	signature:( xListItem *pxItemToRemove )
+vParTestInitialise	D:\1A\proiect v2\Demo\dsPIC_MPLAB\ParTest\ParTest.c	21;"	f	line:21	signature:( void )
+vParTestSetLED	D:\1A\proiect v2\Demo\dsPIC_MPLAB\ParTest\ParTest.c	34;"	f	line:34	signature:( unsigned portBASE_TYPE uxLED, signed portBASE_TYPE xValue )
+vParTestToggleLED	D:\1A\proiect v2\Demo\dsPIC_MPLAB\ParTest\ParTest.c	64;"	f	line:64	signature:( unsigned portBASE_TYPE uxLED )
+vPortEndScheduler	D:\1A\proiect v2\Source\portable\MPLAB\PIC24_dsPIC\port.c	201;"	f	line:201	signature:( void )
+vPortEnterCritical	D:\1A\proiect v2\Source\portable\MPLAB\PIC24_dsPIC\port.c	240;"	f	line:240	signature:( void )
+vPortExitCritical	D:\1A\proiect v2\Source\portable\MPLAB\PIC24_dsPIC\port.c	247;"	f	line:247	signature:( void )
+vPortFree	D:\1A\proiect v2\Source\portable\MemMang\heap_1.c	130;"	f	line:130	signature:( void *pv )
+vPortInitialiseBlocks	D:\1A\proiect v2\Source\portable\MemMang\heap_1.c	139;"	f	line:139	signature:( void )
+vQueueAddToRegistry	D:\1A\proiect v2\Source\include\queue.h	1250;"	p	line:1250	signature:( xQueueHandle xQueue, signed char *pcName )
+vQueueAddToRegistry	D:\1A\proiect v2\Source\queue.c	1423;"	f	line:1423	signature:( xQueueHandle xQueue, signed char *pcQueueName )
+vQueueDelete	D:\1A\proiect v2\Source\include\queue.h	787;"	p	line:787	signature:( xQueueHandle xQueue )
+vQueueDelete	D:\1A\proiect v2\Source\queue.c	1040;"	f	line:1040	signature:( xQueueHandle pxQueue )
+vQueueUnregisterQueue	D:\1A\proiect v2\Source\queue.c	1446;"	f	line:1446	file:	signature:( xQueueHandle xQueue )
+vSemaphoreCreateBinary::(xSemaphore){	D:\1A\proiect v2\Source\include\semphr.h	114;"	d	line:114
+vTaskAllocateMPURegions	D:\1A\proiect v2\Source\tasks.c	1913;"	f	line:1913	signature:( xTaskHandle xTaskToModify, const xMemoryRegion * const xRegions )
+vTaskCleanUpResources	D:\1A\proiect v2\Source\tasks.c	1414;"	f	line:1414	signature:( void )
+vTaskDelay	D:\1A\proiect v2\Source\tasks.c	677;"	f	line:677	signature:( portTickType xTicksToDelay )
+vTaskDelayUntil	D:\1A\proiect v2\Source\tasks.c	600;"	f	line:600	signature:( portTickType * const pxPreviousWakeTime, portTickType xTimeIncrement )
+vTaskDelete	D:\1A\proiect v2\Source\tasks.c	534;"	f	line:534	signature:( xTaskHandle pxTaskToDelete )
+vTaskEndScheduler	D:\1A\proiect v2\Source\tasks.c	1062;"	f	line:1062	signature:( void )
+vTaskEnterCritical	D:\1A\proiect v2\Source\tasks.c	2279;"	f	line:2279	signature:( void )
+vTaskExitCritical	D:\1A\proiect v2\Source\tasks.c	2294;"	f	line:2294	signature:( void )
+vTaskGetRunTimeStats	D:\1A\proiect v2\Source\tasks.c	1251;"	f	line:1251	signature:( signed char *pcWriteBuffer )
+vTaskIncrementTick	D:\1A\proiect v2\Source\tasks.c	1356;"	f	line:1356	signature:( void )
+vTaskList	D:\1A\proiect v2\Source\tasks.c	1188;"	f	line:1188	signature:( signed char *pcWriteBuffer )
+vTaskMissedYield	D:\1A\proiect v2\Source\tasks.c	1763;"	f	line:1763	signature:( void )
+vTaskPlaceOnEventList	D:\1A\proiect v2\Source\tasks.c	1596;"	f	line:1596	signature:( const xList * const pxEventList, portTickType xTicksToWait )
+vTaskPriorityDisinherit	D:\1A\proiect v2\Source\tasks.c	2253;"	f	line:2253	signature:( xTaskHandle * const pxMutexHolder )
+vTaskPriorityInherit	D:\1A\proiect v2\Source\tasks.c	2221;"	f	line:2221	signature:( xTaskHandle * const pxMutexHolder )
+vTaskPrioritySet	D:\1A\proiect v2\Source\tasks.c	760;"	f	line:760	signature:( xTaskHandle pxTask, unsigned portBASE_TYPE uxNewPriority )
+vTaskResume	D:\1A\proiect v2\Source\tasks.c	939;"	f	line:939	signature:( xTaskHandle pxTaskToResume )
+vTaskSetApplicationTaskTag	D:\1A\proiect v2\Source\tasks.c	1467;"	f	line:1467	signature:( xTaskHandle xTask, pdTASK_HOOK_CODE pxTagValue )
+vTaskSetTimeOutState	D:\1A\proiect v2\Source\tasks.c	1713;"	f	line:1713	signature:( xTimeOutType * const pxTimeOut )
+vTaskStartScheduler	D:\1A\proiect v2\Source\tasks.c	1020;"	f	line:1020	signature:( void )
+vTaskStartTrace	D:\1A\proiect v2\Source\tasks.c	1316;"	f	line:1316	signature:( signed char * pcBuffer, unsigned long ulBufferSize )
+vTaskSuspend	D:\1A\proiect v2\Source\tasks.c	865;"	f	line:865	signature:( xTaskHandle pxTaskToSuspend )
+vTaskSuspendAll	D:\1A\proiect v2\Source\tasks.c	1073;"	f	line:1073	signature:( void )
+vTaskSwitchContext	D:\1A\proiect v2\Source\tasks.c	1552;"	f	line:1552	signature:( void )
+vWriteTraceToBuffer::	D:\1A\proiect v2\Source\tasks.c	234;"	d	line:234	file:
+vWriteTraceToBuffer::	D:\1A\proiect v2\Source\tasks.c	238;"	d	line:238	file:
+xAlreadyYielded	D:\1A\proiect v2\Source\tasks.c	1084;"	l	line:1084
+xAlreadyYielded	D:\1A\proiect v2\Source\tasks.c	603;"	l	line:603
+xAlreadyYielded	D:\1A\proiect v2\Source\tasks.c	680;"	l	line:680
+xCoRoutineCreate	D:\1A\proiect v2\Source\croutine.c	125;"	f	line:125	signature:( crCOROUTINE_CODE pxCoRoutineCode, unsigned portBASE_TYPE uxPriority, unsigned portBASE_TYPE uxIndex )
+xCoRoutineCreate	D:\1A\proiect v2\Source\include\croutine.h	160;"	p	line:160	signature:( crCOROUTINE_CODE pxCoRoutineCode, unsigned portBASE_TYPE uxPriority, unsigned portBASE_TYPE uxIndex )
+xCoRoutineHandle	D:\1A\proiect v2\Source\include\croutine.h	73;"	t	line:73
+xCoRoutineRemoveFromEventList	D:\1A\proiect v2\Source\croutine.c	349;"	f	line:349	signature:( const xList *pxEventList )
+xCoRoutineRemoveFromEventList	D:\1A\proiect v2\Source\include\croutine.h	743;"	p	line:743	signature:( const xList *pxEventList )
+xCoRoutineTickCount	D:\1A\proiect v2\Source\croutine.c	78;"	v	line:78	file:
+xDelayedCoRoutineList1	D:\1A\proiect v2\Source\croutine.c	69;"	v	line:69	file:
+xDelayedCoRoutineList2	D:\1A\proiect v2\Source\croutine.c	70;"	v	line:70	file:
+xDelayedTaskList1	D:\1A\proiect v2\Source\tasks.c	134;"	v	line:134	file:
+xDelayedTaskList2	D:\1A\proiect v2\Source\tasks.c	135;"	v	line:135	file:
+xEntryTimeSet	D:\1A\proiect v2\Source\queue.c	453;"	l	line:453
+xEntryTimeSet	D:\1A\proiect v2\Source\queue.c	571;"	l	line:571
+xEntryTimeSet	D:\1A\proiect v2\Source\queue.c	645;"	l	line:645
+xEntryTimeSet	D:\1A\proiect v2\Source\queue.c	822;"	l	line:822
+xEventListItem	D:\1A\proiect v2\Source\include\croutine.h	82;"	m	line:82	struct:corCoRoutineControlBlock
+xEventListItem	D:\1A\proiect v2\Source\tasks.c	88;"	m	line:88	struct:tskTaskControlBlock	file:
+xGenericListItem	D:\1A\proiect v2\Source\include\croutine.h	81;"	m	line:81	struct:corCoRoutineControlBlock
+xGenericListItem	D:\1A\proiect v2\Source\tasks.c	87;"	m	line:87	struct:tskTaskControlBlock	file:
+xHandle	D:\1A\proiect v2\Source\queue.c	171;"	m	line:171	struct:QUEUE_REGISTRY_ITEM	file:
+xHeap	D:\1A\proiect v2\Source\portable\MemMang\heap_1.c	84;"	v	line:84	file:
+xInitialStack	D:\1A\proiect v2\Source\portable\MPLAB\PIC24_dsPIC\port.c	110;"	l	line:110
+xLastTickCount	D:\1A\proiect v2\Source\croutine.c	78;"	v	line:78	file:
+xListIsEmpty	D:\1A\proiect v2\Source\tasks.c	1966;"	l	line:1966
+xMEMORY_REGION	D:\1A\proiect v2\Source\include\task.h	101;"	s	line:101
+xMPUSettings	D:\1A\proiect v2\Source\tasks.c	84;"	m	line:84	struct:tskTaskControlBlock	file:
+xMemoryRegion	D:\1A\proiect v2\Source\include\task.h	106;"	t	line:106
+xMissedYield	D:\1A\proiect v2\Source\tasks.c	161;"	v	line:161	file:
+xNextFreeByte	D:\1A\proiect v2\Source\portable\MemMang\heap_1.c	86;"	v	line:86	file:
+xNumOfOverflows	D:\1A\proiect v2\Source\tasks.c	162;"	v	line:162	file:
+xOverflowCount	D:\1A\proiect v2\Source\include\task.h	94;"	m	line:94	struct:xTIME_OUT
+xPassedTicks	D:\1A\proiect v2\Source\croutine.c	78;"	v	line:78	file:
+xPendingReadyCoRoutineList	D:\1A\proiect v2\Source\croutine.c	73;"	v	line:73	file:
+xPendingReadyList	D:\1A\proiect v2\Source\tasks.c	138;"	v	line:138	file:
+xPortGetFreeHeapSize	D:\1A\proiect v2\Source\portable\MemMang\heap_1.c	146;"	f	line:146	signature:( void )
+xPortStartScheduler	D:\1A\proiect v2\Source\portable\MPLAB\PIC24_dsPIC\port.c	185;"	f	line:185	signature:( void )
+xQUEUE	D:\1A\proiect v2\Source\queue.c	116;"	t	line:116	file:
+xQueueAltGenericReceive	D:\1A\proiect v2\Source\include\queue.h	1195;"	p	line:1195	signature:( xQueueHandle pxQueue, void * const pvBuffer, portTickType xTicksToWait, portBASE_TYPE xJustPeeking )
+xQueueAltGenericReceive	D:\1A\proiect v2\Source\queue.c	643;"	f	line:643	signature:( xQueueHandle pxQueue, void * const pvBuffer, portTickType xTicksToWait, portBASE_TYPE xJustPeeking )
+xQueueAltGenericSend	D:\1A\proiect v2\Source\include\queue.h	1194;"	p	line:1194	signature:( xQueueHandle pxQueue, const void * const pvItemToQueue, portTickType xTicksToWait, portBASE_TYPE xCopyPosition )
+xQueueAltGenericSend	D:\1A\proiect v2\Source\queue.c	569;"	f	line:569	signature:( xQueueHandle pxQueue, const void * const pvItemToQueue, portTickType xTicksToWait, portBASE_TYPE xCopyPosition )
+xQueueAltPeek::(xQueue,pvBuffer,xTicksToWait)	D:\1A\proiect v2\Source\include\queue.h	1199;"	d	line:1199
+xQueueAltReceive::(xQueue,pvBuffer,xTicksToWait)	D:\1A\proiect v2\Source\include\queue.h	1198;"	d	line:1198
+xQueueAltSendToBack::(xQueue,pvItemToQueue,xTicksTo	D:\1A\proiect v2\Source\include\queue.h	1197;"	d	line:1197
+xQueueAltSendToFront::(xQueue,pvItemToQueue,xTicksTo	D:\1A\proiect v2\Source\include\queue.h	1196;"	d	line:1196
+xQueueCRReceive	D:\1A\proiect v2\Source\include\queue.h	1213;"	p	line:1213	signature:( xQueueHandle pxQueue, void *pvBuffer, portTickType xTicksToWait )
+xQueueCRReceive	D:\1A\proiect v2\Source\queue.c	1278;"	f	line:1278	signature:( xQueueHandle pxQueue, void *pvBuffer, portTickType xTicksToWait )
+xQueueCRReceiveFromISR	D:\1A\proiect v2\Source\include\queue.h	1211;"	p	line:1211	signature:( xQueueHandle pxQueue, void *pvBuffer, signed portBASE_TYPE *pxTaskWoken )
+xQueueCRReceiveFromISR	D:\1A\proiect v2\Source\queue.c	1381;"	f	line:1381	signature:( xQueueHandle pxQueue, void *pvBuffer, signed portBASE_TYPE *pxCoRoutineWoken )
+xQueueCRSend	D:\1A\proiect v2\Source\include\queue.h	1212;"	p	line:1212	signature:( xQueueHandle pxQueue, const void *pvItemToQueue, portTickType xTicksToWait )
+xQueueCRSend	D:\1A\proiect v2\Source\queue.c	1210;"	f	line:1210	signature:( xQueueHandle pxQueue, const void *pvItemToQueue, portTickType xTicksToWait )
+xQueueCRSendFromISR	D:\1A\proiect v2\Source\include\queue.h	1210;"	p	line:1210	signature:( xQueueHandle pxQueue, const void *pvItemToQueue, signed portBASE_TYPE xCoRoutinePreviouslyWoken )
+xQueueCRSendFromISR	D:\1A\proiect v2\Source\queue.c	1353;"	f	line:1353	signature:( xQueueHandle pxQueue, const void *pvItemToQueue, signed portBASE_TYPE xCoRoutinePreviouslyWoken )
+xQueueCreate	D:\1A\proiect v2\Source\include\queue.h	136;"	p	line:136	signature:( unsigned portBASE_TYPE uxQueueLength, unsigned portBASE_TYPE uxItemSize )
+xQueueCreate	D:\1A\proiect v2\Source\queue.c	247;"	f	line:247	signature:( unsigned portBASE_TYPE uxQueueLength, unsigned portBASE_TYPE uxItemSize )
+xQueueCreateCountingSemaphore	D:\1A\proiect v2\Source\include\queue.h	1220;"	p	line:1220	signature:( unsigned portBASE_TYPE uxCountValue, unsigned portBASE_TYPE uxInitialCount )
+xQueueCreateCountingSemaphore	D:\1A\proiect v2\Source\queue.c	428;"	f	line:428	signature:( unsigned portBASE_TYPE uxCountValue, unsigned portBASE_TYPE uxInitialCount )
+xQueueCreateMutex	D:\1A\proiect v2\Source\include\queue.h	1219;"	p	line:1219	signature:( void )
+xQueueCreateMutex	D:\1A\proiect v2\Source\queue.c	299;"	f	line:299	signature:( void )
+xQueueGenericReceive	D:\1A\proiect v2\Source\include\queue.h	758;"	p	line:758	signature:( xQueueHandle xQueue, void * const pvBuffer, portTickType xTicksToWait, portBASE_TYPE xJustPeek )
+xQueueGenericReceive	D:\1A\proiect v2\Source\queue.c	820;"	f	line:820	signature:( xQueueHandle pxQueue, void * const pvBuffer, portTickType xTicksToWait, portBASE_TYPE xJustPeeking )
+xQueueGenericSend	D:\1A\proiect v2\Source\include\queue.h	472;"	p	line:472	signature:( xQueueHandle xQueue, const void * const pvItemToQueue, portTickType xTicksToWait, portBASE_TYPE xCopyPosition )
+xQueueGenericSend	D:\1A\proiect v2\Source\queue.c	451;"	f	line:451	signature:( xQueueHandle pxQueue, const void * const pvItemToQueue, portTickType xTicksToWait, portBASE_TYPE xCopyPosition )
+xQueueGenericSendFromISR	D:\1A\proiect v2\Source\include\queue.h	1080;"	p	line:1080	signature:( xQueueHandle pxQueue, const void * const pvItemToQueue, signed portBASE_TYPE *pxHigherPriorityTaskWoken, portBASE_TYPE xCopyPosition )
+xQueueGenericSendFromISR	D:\1A\proiect v2\Source\queue.c	767;"	f	line:767	signature:( xQueueHandle pxQueue, const void * const pvItemToQueue, signed portBASE_TYPE *pxHigherPriorityTaskWoken, portBASE_TYPE xCopyPosition )
+xQueueGiveMutexRecursive	D:\1A\proiect v2\Source\include\queue.h	1227;"	p	line:1227	signature:( xQueueHandle xMutex )
+xQueueGiveMutexRecursive	D:\1A\proiect v2\Source\queue.c	347;"	f	line:347	signature:( xQueueHandle pxMutex )
+xQueueHandle	D:\1A\proiect v2\Source\include\queue.h	72;"	t	line:72
+xQueueHandle	D:\1A\proiect v2\Source\queue.c	124;"	t	line:124	file:
+xQueueIsQueueEmptyFromISR	D:\1A\proiect v2\Source\include\queue.h	1175;"	p	line:1175	signature:( const xQueueHandle pxQueue )
+xQueueIsQueueEmptyFromISR	D:\1A\proiect v2\Source\queue.c	1177;"	f	line:1177	signature:( const xQueueHandle pxQueue )
+xQueueIsQueueFullFromISR	D:\1A\proiect v2\Source\include\queue.h	1176;"	p	line:1176	signature:( const xQueueHandle pxQueue )
+xQueueIsQueueFullFromISR	D:\1A\proiect v2\Source\queue.c	1199;"	f	line:1199	signature:( const xQueueHandle pxQueue )
+xQueuePeek::(xQueue,pvBuffer,xTicksToWait)	D:\1A\proiect v2\Source\include\queue.h	566;"	d	line:566
+xQueueReceive::(xQueue,pvBuffer,xTicksToWait)	D:\1A\proiect v2\Source\include\queue.h	659;"	d	line:659
+xQueueReceiveFromISR	D:\1A\proiect v2\Source\include\queue.h	1169;"	p	line:1169	signature:( xQueueHandle pxQueue, void * const pvBuffer, signed portBASE_TYPE *pxTaskWoken )
+xQueueReceiveFromISR	D:\1A\proiect v2\Source\queue.c	967;"	f	line:967	signature:( xQueueHandle pxQueue, void * const pvBuffer, signed portBASE_TYPE *pxTaskWoken )
+xQueueRegistry	D:\1A\proiect v2\Source\queue.c	177;"	v	line:177
+xQueueRegistryItem	D:\1A\proiect v2\Source\queue.c	172;"	t	line:172	file:
+xQueueSend::(xQueue,pvItemToQueue,xTicksTo	D:\1A\proiect v2\Source\include\queue.h	384;"	d	line:384
+xQueueSendFromISR::(pxQueue,pvItemToQueue,pxHighe	D:\1A\proiect v2\Source\include\queue.h	1002;"	d	line:1002
+xQueueSendToBack::(xQueue,pvItemToQueue,xTicksTo	D:\1A\proiect v2\Source\include\queue.h	300;"	d	line:300
+xQueueSendToBackFromISR::(pxQueue,pvItemToQueue,pxHighe	D:\1A\proiect v2\Source\include\queue.h	928;"	d	line:928
+xQueueSendToFront::(xQueue,pvItemToQueue,xTicksTo	D:\1A\proiect v2\Source\include\queue.h	218;"	d	line:218
+xQueueSendToFrontFromISR::(pxQueue,pvItemToQueue,pxHighe	D:\1A\proiect v2\Source\include\queue.h	857;"	d	line:857
+xQueueSizeInBytes	D:\1A\proiect v2\Source\queue.c	250;"	l	line:250
+xQueueTakeMutexRecursive	D:\1A\proiect v2\Source\include\queue.h	1226;"	p	line:1226	signature:( xQueueHandle xMutex, portTickType xBlockTime )
+xQueueTakeMutexRecursive	D:\1A\proiect v2\Source\queue.c	394;"	f	line:394	signature:( xQueueHandle pxMutex, portTickType xBlockTime )
+xRTOS_HEAP	D:\1A\proiect v2\Source\portable\MemMang\heap_1.c	76;"	u	line:76	file:
+xRegions	D:\1A\proiect v2\Source\include\task.h	119;"	m	line:119	struct:xTASK_PARAMTERS
+xReturn	D:\1A\proiect v2\Source\croutine.c	127;"	l	line:127
+xReturn	D:\1A\proiect v2\Source\croutine.c	352;"	l	line:352
+xReturn	D:\1A\proiect v2\Source\queue.c	1167;"	l	line:1167
+xReturn	D:\1A\proiect v2\Source\queue.c	1179;"	l	line:1179
+xReturn	D:\1A\proiect v2\Source\queue.c	1189;"	l	line:1189
+xReturn	D:\1A\proiect v2\Source\queue.c	1201;"	l	line:1201
+xReturn	D:\1A\proiect v2\Source\queue.c	1212;"	l	line:1212
+xReturn	D:\1A\proiect v2\Source\queue.c	1280;"	l	line:1280
+xReturn	D:\1A\proiect v2\Source\queue.c	1383;"	l	line:1383
+xReturn	D:\1A\proiect v2\Source\queue.c	349;"	l	line:349
+xReturn	D:\1A\proiect v2\Source\queue.c	396;"	l	line:396
+xReturn	D:\1A\proiect v2\Source\queue.c	769;"	l	line:769
+xReturn	D:\1A\proiect v2\Source\queue.c	969;"	l	line:969
+xReturn	D:\1A\proiect v2\Source\tasks.c	1022;"	l	line:1022
+xReturn	D:\1A\proiect v2\Source\tasks.c	1496;"	l	line:1496
+xReturn	D:\1A\proiect v2\Source\tasks.c	1525;"	l	line:1525
+xReturn	D:\1A\proiect v2\Source\tasks.c	1669;"	l	line:1669
+xReturn	D:\1A\proiect v2\Source\tasks.c	1722;"	l	line:1722
+xReturn	D:\1A\proiect v2\Source\tasks.c	2177;"	l	line:2177
+xReturn	D:\1A\proiect v2\Source\tasks.c	2195;"	l	line:2195
+xReturn	D:\1A\proiect v2\Source\tasks.c	388;"	l	line:388
+xReturn	D:\1A\proiect v2\Source\tasks.c	910;"	l	line:910
+xRunPrivileged	D:\1A\proiect v2\Source\tasks.c	401;"	l	line:401
+xRxLock	D:\1A\proiect v2\Source\queue.c	113;"	m	line:113	struct:QueueDefinition	file:
+xSchedulerRunning	D:\1A\proiect v2\Source\tasks.c	158;"	v	line:158	file:
+xSemaphoreAltGive::(xSemaphore)xQueueAltGenericSe	D:\1A\proiect v2\Source\include\semphr.h	450;"	d	line:450
+xSemaphoreAltTake::(xSemaphore,xBlockTime)xQueueA	D:\1A\proiect v2\Source\include\semphr.h	289;"	d	line:289
+xSemaphoreCreateCounting::(uxMaxCount,uxInitialCount)xQu	D:\1A\proiect v2\Source\include\semphr.h	706;"	d	line:706
+xSemaphoreCreateMutex::xQueueCreateMutex	D:\1A\proiect v2\Source\include\semphr.h	588;"	d	line:588
+xSemaphoreCreateRecursiveMutex::xQueueCreateMutex	D:\1A\proiect v2\Source\include\semphr.h	643;"	d	line:643
+xSemaphoreGive::(xSemaphore)xQueueGenericSend(	D:\1A\proiect v2\Source\include\semphr.h	352;"	d	line:352
+xSemaphoreGiveFromISR::(xSemaphore,pxHigherPriorityTa	D:\1A\proiect v2\Source\include\semphr.h	541;"	d	line:541
+xSemaphoreGiveRecursive::(xMutex)xQueueGiveMutexRecursi	D:\1A\proiect v2\Source\include\semphr.h	436;"	d	line:436
+xSemaphoreHandle	D:\1A\proiect v2\Source\include\semphr.h	63;"	t	line:63
+xSemaphoreTake::(xSemaphore,xBlockTime)xQueueG	D:\1A\proiect v2\Source\include\semphr.h	181;"	d	line:181
+xSemaphoreTakeRecursive::(xMutex,xBlockTime)xQueueTakeM	D:\1A\proiect v2\Source\include\semphr.h	274;"	d	line:274
+xShouldDelay	D:\1A\proiect v2\Source\tasks.c	603;"	l	line:603
+xSuspendedTaskList	D:\1A\proiect v2\Source\tasks.c	149;"	v	line:149	file:
+xTASK_PARAMTERS	D:\1A\proiect v2\Source\include\task.h	111;"	s	line:111
+xTCB	D:\1A\proiect v2\Source\tasks.c	1469;"	l	line:1469
+xTCB	D:\1A\proiect v2\Source\tasks.c	1495;"	l	line:1495
+xTCB	D:\1A\proiect v2\Source\tasks.c	1524;"	l	line:1524
+xTIME_OUT	D:\1A\proiect v2\Source\include\task.h	92;"	s	line:92
+xTaskCallApplicationTaskHook	D:\1A\proiect v2\Source\tasks.c	1522;"	f	line:1522	signature:( xTaskHandle xTask, void *pvParameter )
+xTaskCheckForTimeOut	D:\1A\proiect v2\Source\tasks.c	1720;"	f	line:1720	signature:( xTimeOutType * const pxTimeOut, portTickType * const pxTicksToWait )
+xTaskCreate::(pvTaskCode,pcName,usStackDept	D:\1A\proiect v2\Source\include\task.h	272;"	d	line:272
+xTaskCreateRestricted::(x,pxCreatedTask)xTaskGenericC	D:\1A\proiect v2\Source\include\task.h	341;"	d	line:341
+xTaskGenericCreate	D:\1A\proiect v2\Source\tasks.c	386;"	f	line:386	signature:( pdTASK_CODE pxTaskCode, const signed char * const pcName, unsigned short usStackDepth, void *pvParameters, unsigned portBASE_TYPE uxPriority, xTaskHandle *pxCreatedTask, portSTACK_TYPE *puxStackBuffer, const xMemoryRegion * const xRegions )
+xTaskGetApplicationTaskTag	D:\1A\proiect v2\Source\tasks.c	1493;"	f	line:1493	signature:( xTaskHandle xTask )
+xTaskGetCurrentTaskHandle	D:\1A\proiect v2\Source\tasks.c	2175;"	f	line:2175	signature:( void )
+xTaskGetSchedulerState	D:\1A\proiect v2\Source\tasks.c	2193;"	f	line:2193	signature:( void )
+xTaskGetTickCount	D:\1A\proiect v2\Source\tasks.c	1163;"	f	line:1163	signature:( void )
+xTaskHandle	D:\1A\proiect v2\Source\include\task.h	87;"	t	line:87
+xTaskIsTaskSuspended	D:\1A\proiect v2\Source\tasks.c	908;"	f	line:908	signature:( xTaskHandle xTask )
+xTaskParameters	D:\1A\proiect v2\Source\include\task.h	120;"	t	line:120
+xTaskRemoveFromEventList	D:\1A\proiect v2\Source\tasks.c	1666;"	f	line:1666	signature:( const xList * const pxEventList )
+xTaskResumeAll	D:\1A\proiect v2\Source\queue.c	549;"	p	line:549	file:
+xTaskResumeAll	D:\1A\proiect v2\Source\queue.c	556;"	p	line:556	file:
+xTaskResumeAll	D:\1A\proiect v2\Source\queue.c	953;"	p	line:953	file:
+xTaskResumeAll	D:\1A\proiect v2\Source\queue.c	959;"	p	line:959	file:
+xTaskResumeAll	D:\1A\proiect v2\Source\tasks.c	1081;"	f	line:1081	signature:( void )
+xTaskResumeFromISR	D:\1A\proiect v2\Source\tasks.c	981;"	f	line:981	signature:( xTaskHandle pxTaskToResume )
+xTasksWaitingTermination	D:\1A\proiect v2\Source\tasks.c	142;"	v	line:142	file:
+xTasksWaitingToReceive	D:\1A\proiect v2\Source\queue.c	107;"	m	line:107	struct:QueueDefinition	file:
+xTasksWaitingToSend	D:\1A\proiect v2\Source\queue.c	106;"	m	line:106	struct:QueueDefinition	file:
+xTickCount	D:\1A\proiect v2\Source\tasks.c	155;"	v	line:155	file:
+xTicks	D:\1A\proiect v2\Source\tasks.c	1165;"	l	line:1165
+xTimeOnEntering	D:\1A\proiect v2\Source\include\task.h	95;"	m	line:95	struct:xTIME_OUT
+xTimeOut	D:\1A\proiect v2\Source\queue.c	454;"	l	line:454
+xTimeOut	D:\1A\proiect v2\Source\queue.c	572;"	l	line:572
+xTimeOut	D:\1A\proiect v2\Source\queue.c	646;"	l	line:646
+xTimeOut	D:\1A\proiect v2\Source\queue.c	823;"	l	line:823
+xTimeOutType	D:\1A\proiect v2\Source\include\task.h	96;"	t	line:96
+xTimeToWake	D:\1A\proiect v2\Source\croutine.c	184;"	l	line:184
+xTimeToWake	D:\1A\proiect v2\Source\tasks.c	1598;"	l	line:1598
+xTimeToWake	D:\1A\proiect v2\Source\tasks.c	602;"	l	line:602
+xTimeToWake	D:\1A\proiect v2\Source\tasks.c	679;"	l	line:679
+xTracing	D:\1A\proiect v2\Source\tasks.c	198;"	v	line:198	file:
+xTxLock	D:\1A\proiect v2\Source\queue.c	114;"	m	line:114	struct:QueueDefinition	file:
+xValueOfInsertion	D:\1A\proiect v2\Source\list.c	116;"	l	line:116
+xYieldRequired	D:\1A\proiect v2\Source\tasks.c	1099;"	l	line:1099
+xYieldRequired	D:\1A\proiect v2\Source\tasks.c	763;"	l	line:763
+xYieldRequired	D:\1A\proiect v2\Source\tasks.c	983;"	l	line:983

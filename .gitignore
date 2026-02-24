@@ -1,0 +1,21 @@
+# Object files
+*.o
+*.obj
+
+# Output binaries
+*.hex
+*.elf
+*.cof
+*.map
+
+# MPLAB generated
+*.mcp
+*.zip
+dist/
+build/
+Debug/
+Release/
+
+# Tag files
+*.tags
+*.tag
