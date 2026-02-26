@@ -1,3 +1,8 @@
+##  Sistem de detectare a obstacolelor cu semnalizare și control automat
+
+**Autor:** Antoneac Ramona-Florina  
+**An:** 2025  
+
 ##  Descriere generală
   
   În cadrul proiectului **„Sistem de detectare a obstacolelor cu semnalizare și control 
